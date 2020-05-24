@@ -1,0 +1,72 @@
+<set id="w19_deen" source-language="de" target-language="en">
+  <seg id="1" doc-id="../data/appraise_import/deen_003_nachrichten.at.205331.sl">
+    <source>Linz: Gartenhütte in Schrebergartensiedlung brannte</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.ref">Linz: Garden shed in allotment gardens burnt down</translation>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.ht">Linz: garden shed burns in allotment area</translation>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.mt">Linz: Garden Hut on Fire in Allotment Settlement</translation>
+  </seg>
+  <seg id="2" doc-id="../data/appraise_import/deen_003_nachrichten.at.205331.sl">
+    <source>Um 14.13 Uhr wurde die Berufsfeuerwehr Linz zu einem Brand in den Angererhofweg alarmiert.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.ref">At 14.13 the Linz professional fire department was notified of a fire in Angererhofweg.</translation>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.ht">At 2:13pm, Linz fire department were alerted to a fire in Angererhofweg.</translation>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.mt">At 2: 13 p.m., the Linz Fire Department was alerted to a fire in Angererhofweg.</translation>
+  </seg>
+  <seg id="3" doc-id="../data/appraise_import/deen_003_nachrichten.at.205331.sl">
+    <source>Weil eine Hochspannungsleitung direkt über die Schrebergartensiedlung führt, war Gefahr in Verzug.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.ref">As a high-voltage power line directly traverses the allotment garden, danger was imminent.</translation>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.ht">Due to the fact that a high voltage line runs directly above the allotment, danger was imminent.</translation>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.mt">Because a high-voltage power line leads directly over the allotment, danger was in arrears.</translation>
+  </seg>
+  <seg id="4" doc-id="../data/appraise_import/deen_003_nachrichten.at.205331.sl">
+    <source>Die Berufsfeuerwehr rückte aus und fand beim eintreffen die Hütte in Vollbrand vor.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.ref">The professional fire brigade drove out and on arrival found the hut fully in flames.</translation>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.ht">Professional firefighters went out to find the shed fully ablaze.</translation>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.mt">The professional fire brigade moved out and found the hut on fire when they arrived.</translation>
+  </seg>
+  <seg id="5" doc-id="../data/appraise_import/deen_003_nachrichten.at.205331.sl">
+    <source>Das Dach musste praktisch zur Gänze entfernt und Brandschutt im unbedingt erforderlichen Ausmaß ausgeräumt werden.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.ref">The roof had to be almost completely removed and the huge amount of debris needed clearing.</translation>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.ht">Practically the entire roof had to be removed and all debris had to be cleared as necessary.</translation>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.mt">The roof had to be removed practically in its entirety and fire debris had to be cleared to the extent absolutely necessary.</translation>
+  </seg>
+  <seg id="6" doc-id="../data/appraise_import/deen_003_nachrichten.at.205331.sl">
+    <source>Laut Besitzer der brennenden Gartenhütte hatte er zu Mittag einen Akku zum Laden angesteckt.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.ref">The owner of the burning garden hut stated that at noon he had connected a battery to the power supply for charging.</translation>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.ht">The owner of the burning shed said that he had plugged in a battery to charge at midday.</translation>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.mt">According to the owner of the burning garden shed, he had plugged in a battery for charging at lunchtime.</translation>
+  </seg>
+  <seg id="7" doc-id="../data/appraise_import/deen_003_nachrichten.at.205331.sl">
+    <source>Das könnte eventuell die Brandursache sein.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.ref">This was the possible cause of the fire.</translation>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.ht">This may have been the cause of the fire.</translation>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.mt">This could possibly be the cause of the fire.</translation>
+  </seg>
+  <seg id="8" doc-id="../data/appraise_import/deen_003_nachrichten.at.205331.sl">
+    <source>Jedenfalls befand sich das Ladegerät laut Feuerwehr im Bereich der größten Brandintensität.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.ref">According to the fire department the loading unit was in the most intensive area of the fire.</translation>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.ht">In any case, the fire department found that the charging device was in the area of highest fire intensity.</translation>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.mt">In any case, according to the fire department, the charger was in the area of the greatest fire intensity.</translation>
+  </seg>
+  <seg id="9" doc-id="../data/appraise_import/deen_003_nachrichten.at.205331.sl">
+    <source>Der Schaden, der durch den Brand entstanden ist, muss noch - ebenso wie die Brandursache - ermittelt werden.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.ref">The damage caused by the fire, and the cause of the fire, still needs to be investigated.</translation>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.ht">The damage caused by the fire, as well as the exact cause, is yet to be determined.</translation>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.mt">The damage caused by the fire has yet to be determined, as has the cause of the fire.</translation>
+  </seg>
+  <seg id="10" doc-id="../data/appraise_import/deen_003_nachrichten.at.205331.sl">
+    <source>Er dürfte allerdings beträchtlich sein, denn der Besitzer hatte in seiner Gartenhütte viele Sammlerstücke.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.ref">The damage could be considerable as the owner stored many collectibles in his garden hut.</translation>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.ht">The damage may prove to be significant, as the owner of the shed had many collectibles in his garden shed.</translation>
+    <translation system="../data/appraise_import/deen_003_nachrichten.at.205331.mt">However, it is likely to be considerable, as the owner had many collectibles in his garden shed.</translation>
+  </seg>
+</set>

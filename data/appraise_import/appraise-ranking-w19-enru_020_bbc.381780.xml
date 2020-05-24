@@ -1,0 +1,32 @@
+<set id="w19_enru" source-language="en" target-language="ru">
+  <seg id="1" doc-id="../data/appraise_import/enru_020_bbc.381780.sl">
+    <source>Londonderry: Men arrested after house rammed by car</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_020_bbc.381780.ht">Лондондерри: Мужчины арестованы после того, как машина врезалась в дом</translation>
+    <translation system="../data/appraise_import/enru_020_bbc.381780.mt">Лондондерри: Мужчины арестованы после того, как дом протаранил автомобиль</translation>
+  </seg>
+  <seg id="2" doc-id="../data/appraise_import/enru_020_bbc.381780.sl">
+    <source>Three men, aged 33, 34 and 39, have been arrested after a car was repeatedly rammed into a house in Londonderry.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_020_bbc.381780.ht">Трое мужчин в возрасте 33, 34 и 39 лет были арестованы после того, как машина несколько раз врезалась в дом в Лондондерри.</translation>
+    <translation system="../data/appraise_import/enru_020_bbc.381780.mt">Трое мужчин в возрасте 33, 34 и 39 лет были арестованы после того, как автомобиль несколько раз протаранил дом в Лондондерри.</translation>
+  </seg>
+  <seg id="3" doc-id="../data/appraise_import/enru_020_bbc.381780.sl">
+    <source>The incident unfolded in Ballynagard Crescent on Thursday at about 19:30 BST.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_020_bbc.381780.ht">Инцидент произошел в Бэллинагард Кресценте в четверг около 19:30 по британскому стандартному времени.</translation>
+    <translation system="../data/appraise_import/enru_020_bbc.381780.mt">Инцидент произошел в Баллинагардском полумесяце в четверг около 19: 30 по британскому времени.</translation>
+  </seg>
+  <seg id="4" doc-id="../data/appraise_import/enru_020_bbc.381780.sl">
+    <source>Det Insp Bob Blemmings said damage was caused to the gates and the building itself.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_020_bbc.381780.ht">Инспектор отдела Боб Блеммингс сказал, что ущерб был нанесен воротам и самому зданию.</translation>
+    <translation system="../data/appraise_import/enru_020_bbc.381780.mt">Det Insp Боб Блеммингс сказал, что были повреждены ворота и само здание.</translation>
+  </seg>
+  <seg id="5" doc-id="../data/appraise_import/enru_020_bbc.381780.sl">
+    <source>A crossbow may also have been fired at the car at some point.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_020_bbc.381780.ht">Возможно, в какой-то момент в машине также использовался арбалет.</translation>
+    <translation system="../data/appraise_import/enru_020_bbc.381780.mt">Возможно, в какой-то момент по машине также был открыт огонь из арбалета.</translation>
+  </seg>
+</set>

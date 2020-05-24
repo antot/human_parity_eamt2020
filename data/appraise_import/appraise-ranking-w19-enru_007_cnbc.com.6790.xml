@@ -1,0 +1,104 @@
+<set id="w19_enru" source-language="en" target-language="ru">
+  <seg id="1" doc-id="../data/appraise_import/enru_007_cnbc.com.6790.sl">
+    <source>Tough talk 'and then we fell in love'</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.ht">Тяжелый разговор "а затем мы влюбились"</translation>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.mt">Жесткий разговор "а потом мы влюбились"</translation>
+  </seg>
+  <seg id="2" doc-id="../data/appraise_import/enru_007_cnbc.com.6790.sl">
+    <source>He joked about criticism he would get from the news media for making a comment some would consider "unpresidential" and for being so positive about the North Korean leader.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.ht">Он шутил по поводу критики, которую он получит от новостных медиа за комментарий, который некоторые сочли бы "недостойным президента" и за столь позитивный взгляд на лидера Северной Кореи.</translation>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.mt">Он пошутил по поводу критики, которую он получит от СМИ за комментарий, который некоторые сочтут "непрезидентским", и за столь позитивное отношение к северокорейскому лидеру.</translation>
+  </seg>
+  <seg id="3" doc-id="../data/appraise_import/enru_007_cnbc.com.6790.sl">
+    <source>Why has President Trump given up so much?</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.ht">Почему президент Трамп стольким пожертвовал?</translation>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.mt">Почему президент Трамп так сильно сдался?</translation>
+  </seg>
+  <seg id="4" doc-id="../data/appraise_import/enru_007_cnbc.com.6790.sl">
+    <source>Trump said in his mock "news anchor" voice.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.ht">Трамп сказал своим шуточным голосом "ведущего новостей".</translation>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.mt">Об этом Трамп заявил в своем издевательском голосе "ведущего новостей".</translation>
+  </seg>
+  <seg id="5" doc-id="../data/appraise_import/enru_007_cnbc.com.6790.sl">
+    <source>"I didn't give up anything."</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.ht">"Я ничем не пожертвовал".</translation>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.mt">"Я ни от чего не отказался".</translation>
+  </seg>
+  <seg id="6" doc-id="../data/appraise_import/enru_007_cnbc.com.6790.sl">
+    <source>He noted that Kim is interested in a second meeting after their initial meeting in Singapore in June was hailed by Trump as a big step toward denuclearization of North Korea.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.ht">Он заметил, что Ким заинтересован в следующей встрече после того, как их первая встреча в Сингапуре в июне была названа Трампом большим шагом к денуклеаризации Северной Кореи.</translation>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.mt">Он отметил, что Ким заинтересован во второй встрече после того, как их первая встреча в Сингапуре в июне была воспринята Трампом как большой шаг на пути к денуклеаризации Северной Кореи.</translation>
+  </seg>
+  <seg id="7" doc-id="../data/appraise_import/enru_007_cnbc.com.6790.sl">
+    <source>But denuclearization negotiations have stalled.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.ht">Но переговоры о денуклеаризации застопорились.</translation>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.mt">Но переговоры о денуклеаризации зашли в тупик.</translation>
+  </seg>
+  <seg id="8" doc-id="../data/appraise_import/enru_007_cnbc.com.6790.sl">
+    <source>More than three months after the June summit in Singapore, North Korea's top diplomat Ri Yong Ho told world leaders at the U.N. General Assembly Saturday that the North doesn't see a "corresponding response" from the U.S. to North Korea's early disarmament moves.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.ht">Более чем через три месяца после июньского саммита в Сингапуре северокорейский высокопоставленный дипломат Ли Ён Хо заявил мировым лидерам на Генеральной Ассамблее ООН, что Север не видит "соответствующего ответа" на первые шаги Северной Кореи в направлении разоружения со стороны США.</translation>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.mt">Более чем через три месяца после июньского саммита в Сингапуре главный дипломат Северной Кореи Ли Ен Хо заявил мировым лидерам на Генеральной Ассамблее ООН в субботу, что Север не видит "соответствующего ответа" со стороны США на ранние шаги Северной Кореи по разоружению.</translation>
+  </seg>
+  <seg id="9" doc-id="../data/appraise_import/enru_007_cnbc.com.6790.sl">
+    <source>Instead, he noted, the U.S. is continuing sanctions aimed at keeping up pressure.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.ht">Вместо этого, как он отметил, США продолжают вводить санкции, направленные на поддержание давления.</translation>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.mt">Вместо этого, отметил он, США продолжают санкции, направленные на поддержание давления.</translation>
+  </seg>
+  <seg id="10" doc-id="../data/appraise_import/enru_007_cnbc.com.6790.sl">
+    <source>Trump took a much more optimistic view in his rally speech.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.ht">Трамп в своем выступлении занял куда более оптимистичную позицию.</translation>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.mt">Трамп в своей речи на митинге занял гораздо более оптимистичную позицию.</translation>
+  </seg>
+  <seg id="11" doc-id="../data/appraise_import/enru_007_cnbc.com.6790.sl">
+    <source>"We're doing great with North Korea," he said.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.ht">"Мы в отличных отношениях с Северной Кореей", - сказал он.</translation>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.mt">"Мы прекрасно работаем с Северной Кореей", - сказал он.</translation>
+  </seg>
+  <seg id="12" doc-id="../data/appraise_import/enru_007_cnbc.com.6790.sl">
+    <source>"We were going to war with North Korea.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.ht">"Мы собирались воевать с Северной Кореей.</translation>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.mt">"Мы собирались воевать с Северной Кореей.</translation>
+  </seg>
+  <seg id="13" doc-id="../data/appraise_import/enru_007_cnbc.com.6790.sl">
+    <source>Millions of people would have been killed.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.ht">Миллионы людей могли бы быть убиты.</translation>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.mt">Миллионы людей были бы убиты.</translation>
+  </seg>
+  <seg id="14" doc-id="../data/appraise_import/enru_007_cnbc.com.6790.sl">
+    <source>Now we have this great relationship."</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.ht">Сейчас у нас такие прекрасные отношения".</translation>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.mt">Теперь у нас такие прекрасные отношения ".</translation>
+  </seg>
+  <seg id="15" doc-id="../data/appraise_import/enru_007_cnbc.com.6790.sl">
+    <source>He said his efforts to improve relations with Kim have brought positive results - ending rocket tests, helping free hostages and getting the remains of American servicemen returned home.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.ht">По его словам, его попытки улучшить отношения с Кимом принесли позитивные результаты - окончание ракетных испытаний, помощь в освобождении заложников и возвращение домой оставшихся американских военнослужащих.</translation>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.mt">Он сказал, что его усилия по улучшению отношений с Кимом принесли положительные результаты - прекращение ракетных испытаний, помощь в освобождении заложников и возвращение останков американских военнослужащих на родину.</translation>
+  </seg>
+  <seg id="16" doc-id="../data/appraise_import/enru_007_cnbc.com.6790.sl">
+    <source>And he defended his unusual approach in talking about relations with Kim.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.ht">Также он отстаивал свой необычный подход в разговорах об отношениях с Кимом.</translation>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.mt">И он отстаивал свой необычный подход, говоря об отношениях с Кимом.</translation>
+  </seg>
+  <seg id="17" doc-id="../data/appraise_import/enru_007_cnbc.com.6790.sl">
+    <source>"It's so easy to be presidential, but instead of having 10,000 people outside trying to get into this packed arena, we'd have about 200 people standing right there," Trump said, pointing at the crowd directly in front of him.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.ht">"Так легко вести себя по-президентски, но вместо 10000 лдей снаружи, пытающихся попасть на эту заполненную арену, у нас будут 200 человек, стоящих прямо там", - сказал Трамп, указывая на толпу прямо перед собой.</translation>
+    <translation system="../data/appraise_import/enru_007_cnbc.com.6790.mt">"Быть президентом так легко, но вместо того, чтобы иметь 10 000 человек снаружи, пытающихся попасть на эту переполненную арену, у нас было бы около 200 человек, стоящих прямо там", - сказал Трамп, указывая на толпу прямо перед ним.</translation>
+  </seg>
+</set>

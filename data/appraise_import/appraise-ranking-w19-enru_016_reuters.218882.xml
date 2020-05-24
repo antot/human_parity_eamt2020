@@ -1,0 +1,26 @@
+<set id="w19_enru" source-language="en" target-language="ru">
+  <seg id="1" doc-id="../data/appraise_import/enru_016_reuters.218882.sl">
+    <source>British PM May accuses critics of 'playing politics' over Brexit</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_016_reuters.218882.ht">Британский премьер-министр Мэй обвиняет критиков в "игре в политику" на фоне Брекзита</translation>
+    <translation system="../data/appraise_import/enru_016_reuters.218882.mt">Британский премьер Мэй обвиняет критиков в "игре в политику" из-за Brexit</translation>
+  </seg>
+  <seg id="2" doc-id="../data/appraise_import/enru_016_reuters.218882.sl">
+    <source>Prime Minister Theresa May accused critics of her plans to leave the European Union of "playing politics" with Britain's future and undermining the national interest in an interview with the Sunday Times newspaper.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_016_reuters.218882.ht">Премьер-министр Тереза Мэй обвинила критиков ее плана выхода из Европейского союза в "игре в политику" с будущим Британии и подрыве национальных интересов в интервью газете Sunday Times.</translation>
+    <translation system="../data/appraise_import/enru_016_reuters.218882.mt">Премьер-министр Тереза Мэй в интервью газете Sunday Times обвинила критиков ее планов выйти из Евросоюза в том, что они "играют в политику" с будущим Британии и подрывают национальные интересы.</translation>
+  </seg>
+  <seg id="3" doc-id="../data/appraise_import/enru_016_reuters.218882.sl">
+    <source>Britain's Prime Minister Theresa May arrives for the Conservative Party Conference in Birmingham, Britain, September 29, 2018.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_016_reuters.218882.ht">Британский премьер-министр Тереза Мэй прибудет на конференцию Консервативной партии в Бирмингем, Британия, 29 сентября 2018 года.</translation>
+    <translation system="../data/appraise_import/enru_016_reuters.218882.mt">Премьер-министр Великобритании Тереза Мэй прибывает на конференцию Консервативной партии в Бирмингеме, Великобритания, 29 сентября 2018 года.</translation>
+  </seg>
+  <seg id="4" doc-id="../data/appraise_import/enru_016_reuters.218882.sl">
+    <source>In another interview next to the one with her on the newspaper's front page, her former foreign minister Boris Johnson pressed his attack of her so-called Chequers plan for Brexit, saying a proposal that Britain and the EU should collect each other's tariffs was "entirely preposterous."</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_016_reuters.218882.ht">В другом интервью, следующим после того интервью с ней, которое напечатано на первой полосе газеты, ее бывший министр иностраных дел Борис Джонсон набрасывается на ее так называемый план Чекерс по Брекзиту, говоря, что предположение, что Британия и ЕС должны получать тарифы друг друга, было "совершенно нелепым".</translation>
+    <translation system="../data/appraise_import/enru_016_reuters.218882.mt">В другом интервью рядом с интервью с ней на первой полосе газеты ее бывший министр иностранных дел Борис Джонсон обрушился с критикой на ее так называемый план "Чекерс" по Брекситу, заявив, что предложение о том, что Британия и ЕС должны собирать пошлины друг с друга, является "совершенно абсурдным".</translation>
+  </seg>
+</set>

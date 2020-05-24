@@ -1,0 +1,44 @@
+<set id="w19_deen" source-language="de" target-language="en">
+  <seg id="1" doc-id="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.sl">
+    <source>Kerber mit Auftakterfolg bei China Open</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.ref">Kerber with initial success at China Open</translation>
+    <translation system="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.ht">Kerber with winning start in China Open</translation>
+    <translation system="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.mt">Kerber with opening win at China Open</translation>
+  </seg>
+  <seg id="2" doc-id="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.sl">
+    <source>Peking (dpa) - Wimbledonsiegerin Angelique Kerber und Laura Siegemund haben beim Tennis-Turnier in Peking wie zuvor schon Julia Görges die zweite Runde erreicht.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.ref">Beijing (dpa) - Wimbledon winner Angelique Kerber and Laura Siegemund have reached the second round in the tennis tournament in Beijing, just as Julia Görges before.</translation>
+    <translation system="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.ht">Beijing (dpa) - Wimbledon champion Angelique Kerber and Laura Siegemund have joined Julia Görges in the second round of the tennis tournament in Beijing.</translation>
+    <translation system="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.mt">BEIJING (AP) - Wimbledon champion Angelique Kerber and Laura Siegemund have reached the second round of the tennis tournament in Beijing, just as Julia Görges did before.</translation>
+  </seg>
+  <seg id="3" doc-id="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.sl">
+    <source>Kerber siegtebei den China Open 6:2, 6:2 gegen die Französin Kristina Mladenovic.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.ref">Kerber won 6:2 at the China Open against Frenchwoman Kristina Mladenovic.</translation>
+    <translation system="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.ht">Kerber defeated the French player Kristina Mladenovic 6:2, 6:2.</translation>
+    <translation system="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.mt">Kerber won 6-2, 6-2 against France's Kristina Mladenovic at the China Open.</translation>
+  </seg>
+  <seg id="4" doc-id="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.sl">
+    <source>Nächste Gegnerin der Weltranglisten-Dritten ist entweder Julia Putinzewa aus Kasachsten oder die Spanierin Carla Suárez Navarro.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.ref">Next opponent of the world ranking third is either Julia Putinzewa from Kazakhstan or Carla Suárez Navarro from Spain.</translation>
+    <translation system="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.ht">The world Number 3's next opponent will be either Julia Putinzewa from Kazakhstan or the Spaniard Carla Suárez Navarro.</translation>
+    <translation system="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.mt">The next opponent in the world rankings is either Yulia Putintseva of Kazakhstan or Carla Suárez Navarro of Spain.</translation>
+  </seg>
+  <seg id="5" doc-id="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.sl">
+    <source>Siegemund führte 6:3, 4:2 gegen Darja Kassatkina, als die an Nummer 13 gesetzte Russin aufgab.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.ref">Siegemund led 6-3, 4-2 against Daria Kassatkina, when the Russian athlete on rank 13 gave up.</translation>
+    <translation system="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.ht">Siegemund was leading 6:3, 4:2 against Darya Kassatkina, when the Number 13-seeded Russian retired injured.</translation>
+    <translation system="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.mt">Siegemund led 6-3, 4-2 against Darya Kassatkina when the 13th-seeded Russian gave up.</translation>
+  </seg>
+  <seg id="6" doc-id="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.sl">
+    <source>Die Schwäbin bekommt es nun mit Anett Kontaveit aus Estland zu tun.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.ref">The Swabian will now face Anett Kontaveit from Estonia.</translation>
+    <translation system="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.ht">The Swabian player now faces a match against Estonia's Anett Kontaveit.</translation>
+    <translation system="../data/appraise_import/deen_020_usinger-anzeiger.de.208273.mt">The sister-in-law now faces Anett Kontaveit of Estonia.</translation>
+  </seg>
+</set>

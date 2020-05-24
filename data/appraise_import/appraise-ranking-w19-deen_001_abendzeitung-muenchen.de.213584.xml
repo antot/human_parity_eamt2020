@@ -1,0 +1,65 @@
+<set id="w19_deen" source-language="de" target-language="en">
+  <seg id="1" doc-id="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.sl">
+    <source>Schöne Münchnerin 2018: Schöne Münchnerin 2018 in Hvar: Neun Dates</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.ref">The Beauty of Munich 2018: the Beauty of Munich 2018 in Hvar: Nine dates</translation>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.ht">Munich's Most Beautiful Woman 2018: Munich's Most Beautiful Woman 2018 in Hvar: Nine Dates</translation>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.mt">Beautiful Munich 2018: Beautiful Munich 2018 in Hvar: Nine dates</translation>
+  </seg>
+  <seg id="2" doc-id="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.sl">
+    <source>Von az, aktualisiert am 04.05.2018 um 11:11</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.ref">From A-Z, updated on 04/05/2018 at 11:11</translation>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.ht">From az, updated on 4th May 2018 at 11:11</translation>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.mt">By az, updated on 04 / 05 / 2018 at 11: 11</translation>
+  </seg>
+  <seg id="3" doc-id="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.sl">
+    <source>Ja, sie will...</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.ref">Yes, she wants to...</translation>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.ht">Yes, she wants to...</translation>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.mt">Yes, she wants...</translation>
+  </seg>
+  <seg id="4" doc-id="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.sl">
+    <source>"Schöne Münchnerin" 2018 werden!</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.ref">to become "The Beauty of Munich" in 2018!</translation>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.ht">Become "Munich's Most Beautiful Woman" of 2018!</translation>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.mt">Be a "beautiful Munich woman" in 2018!</translation>
+  </seg>
+  <seg id="5" doc-id="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.sl">
+    <source>Am Nachmittag wartet erneut eine Überraschung auf unsere Kandidatinnen: sie werden das romantische Candlelight-Shooting vor der MY SOLARIS nicht alleine bestreiten, sondern an der Seite von Male-Model Fabian!</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.ref">In the afternoon there is another surprise waiting for our contestants: they will be competing for the romantic candlelight photo shoot at MY SOLARIS not alone, but together with a male-model Fabian!</translation>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.ht">Another surprise awaits our candidates in the afternoon: they will not take part in the romantic candlelight shoot in front of MY SOLARIS alone, but alongside our male model Fabian!</translation>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.mt">In the afternoon, another surprise awaits our candidates: they will not do the romantic candlelight shoot in front of the MY SOLARIS alone, but at the side of male model Fabian!</translation>
+  </seg>
+  <seg id="6" doc-id="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.sl">
+    <source>Hvar - Flirten, kokettieren, verführen - keine einfachen Aufgaben für unsere Mädchen.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.ref">Hvar with its flirting, coquetting, and seduction is not an easy task for our girls.</translation>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.ht">Hvar - flirting, tempting, seducing - no easy tasks for our ladies.</translation>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.mt">Hvar - flirting, flirting, seducing - no easy tasks for our girls.</translation>
+  </seg>
+  <seg id="7" doc-id="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.sl">
+    <source>Insbesondere dann, wenn in Deutschland ein Freund wartet.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.ref">Especially when there is a boyfriend waiting in Germany.</translation>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.ht">Especially if they have a boyfriend waiting in Germany.</translation>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.mt">Especially when a friend is waiting in Germany.</translation>
+  </seg>
+  <seg id="8" doc-id="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.sl">
+    <source>Dennoch liefern die neun "Schöne Münchnerin"-Kandidatinnen beim Shooting mit People-Fotograf Tuan ab und trotzen Wind, Gischt und Regen wie echte Profis.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.ref">Despite dealing with wind, sprays and rain, the nine contestants of "The Beauty of Munich" behaved like real professionals at the photo shoot with People-photographer Tuan.</translation>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.ht">Nevertheless, despite wind and rain, the "Munich's Most Beautiful Woman" candidates strike their best poses like real professionals with photographer Tuan.</translation>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.mt">Nevertheless, the nine "Schöne Münchnerin" candidates deliver during the shoot with People photographer Tuan and defy wind, spray and rain like real professionals.</translation>
+  </seg>
+  <seg id="9" doc-id="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.sl">
+    <source>Das romantische Shooting gibt's im Video:</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.ref">You may watch the romantic photoshoot on the video:</translation>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.ht">Watch the romantic shoot in the video:</translation>
+    <translation system="../data/appraise_import/deen_001_abendzeitung-muenchen.de.213584.mt">The romantic shooting can be seen in the video:</translation>
+  </seg>
+</set>

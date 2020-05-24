@@ -1,0 +1,37 @@
+<set id="w19_deen" source-language="de" target-language="en">
+  <seg id="1" doc-id="../data/appraise_import/deen_018_infranken.de.241789.sl">
+    <source>Kulmbach: Mann zeigt Polizei Hitlergruß und belästigt Gäste in der Kneipe</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_018_infranken.de.241789.ref">Kulmbach: Man gives police the Hitler salute and harasses guests in the pub</translation>
+    <translation system="../data/appraise_import/deen_018_infranken.de.241789.ht">Kulmbach: Man gives Nazi salute to police and harasses guests in pub</translation>
+    <translation system="../data/appraise_import/deen_018_infranken.de.241789.mt">Kulmbach: Man shows police Hitler salute and harasses guests in pub</translation>
+  </seg>
+  <seg id="2" doc-id="../data/appraise_import/deen_018_infranken.de.241789.sl">
+    <source>Ein 48-Jähriger Mann beschäftigte die Polizeiinspektion Kulmbach in der Nacht von Samstag auf Sonntag gleich doppelt.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_018_infranken.de.241789.ref">During the night from Saturday to Sunday a 48 year old man gave the police station in Kulmbach twice something to do.</translation>
+    <translation system="../data/appraise_import/deen_018_infranken.de.241789.ht">A 48 year-old man gave Kulmbach police double cause to act on Saturday night and Sunday morning.</translation>
+    <translation system="../data/appraise_import/deen_018_infranken.de.241789.mt">A 48-year-old man employed the Kulmbach police department twice during the night from Saturday to Sunday.</translation>
+  </seg>
+  <seg id="3" doc-id="../data/appraise_import/deen_018_infranken.de.241789.sl">
+    <source>Erst zeigte er in der Oberen Stadt einer vorbeifahrenden Polizeistreife den Hitlergruß, später dann fiel er ebenfalls in der Oberen Stadt in einer Kneipe auf, als er andere Gäste belästigte.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_018_infranken.de.241789.ref">First he showed the Hitler salute to a passing police patrol in the upper town, later he was also found in the upper town in a pub where he harassed other guests.</translation>
+    <translation system="../data/appraise_import/deen_018_infranken.de.241789.ht">First of all, he gave a Nazi salute to a passing police patrol in the upper part of town, later on he appeared in a pub in the same area, where he harassed patrons.</translation>
+    <translation system="../data/appraise_import/deen_018_infranken.de.241789.mt">First he showed the Hitler salute to a passing police patrol in the Upper City, later he also caught the eye in a pub in the Upper City when he harassed other guests.</translation>
+  </seg>
+  <seg id="4" doc-id="../data/appraise_import/deen_018_infranken.de.241789.sl">
+    <source>Nachdem er deutlich alkoholisiert dem erteilten Platzverweis durch die Polizei nicht nachkam, musste er die Nacht bei der Polizeiinspektion Kulmbach in der Haftzelle verbringen.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_018_infranken.de.241789.ref">After clearly under the influence of alcohol he did not comply with the police order to vacate the premises, he had to spend the night in the detention cell in the police station of Kulmbach.</translation>
+    <translation system="../data/appraise_import/deen_018_infranken.de.241789.ht">After he did not follow police orders to leave, the drunken man had to spend the night in a Kulmbach police cell.</translation>
+    <translation system="../data/appraise_import/deen_018_infranken.de.241789.mt">After he was clearly drunk and did not comply with the court order issued by the police, he had to spend the night in the detention cell at the Kulmbach police inspectorate.</translation>
+  </seg>
+  <seg id="5" doc-id="../data/appraise_import/deen_018_infranken.de.241789.sl">
+    <source>Im nüchternen Zustand muss er sich dann auch wegen des Verwendens von Kennzeichen verfassungswidriger Organisationen strafrechtlich verantworten.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_018_infranken.de.241789.ref">In the sober state, he also had to take legal responsibility for the use of symbols of unconstitutional organisations.</translation>
+    <translation system="../data/appraise_import/deen_018_infranken.de.241789.ht">Now sober, he has to answer criminal charges for the use of gestures of organizations proscribed by the German constitution.</translation>
+    <translation system="../data/appraise_import/deen_018_infranken.de.241789.mt">In a sober state, he must then also be criminally responsible for the use of signs of unconstitutional organizations.</translation>
+  </seg>
+</set>

@@ -1,0 +1,30 @@
+<set id="w19_deen" source-language="de" target-language="en">
+  <seg id="1" doc-id="../data/appraise_import/deen_005_welt.216088.sl">
+    <source>Landung auf Ryugu: Diese Aufgabe hat "Mascot" auf dem Asteroiden</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_005_welt.216088.ref">Landing on Ryugu: These are "Mascot's" tasks on the asteroid</translation>
+    <translation system="../data/appraise_import/deen_005_welt.216088.ht">Landing on Ryugu: this mission has "Mascot" on the asteroid.</translation>
+    <translation system="../data/appraise_import/deen_005_welt.216088.mt">Landing on Ryugu: This task has "Mascot" on the asteroid</translation>
+  </seg>
+  <seg id="2" doc-id="../data/appraise_import/deen_005_welt.216088.sl">
+    <source>Die Sonde "Hayabusa2" startete im Dezember 2014 in Japan.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_005_welt.216088.ref">The “Hayabusa2” probe launched in December 2014 in Japan.</translation>
+    <translation system="../data/appraise_import/deen_005_welt.216088.ht">The "Hayabusa2" probe began in Japan in December 2014.</translation>
+    <translation system="../data/appraise_import/deen_005_welt.216088.mt">The "Hayabusa2" probe was launched in Japan in December 2014.</translation>
+  </seg>
+  <seg id="3" doc-id="../data/appraise_import/deen_005_welt.216088.sl">
+    <source>Sie soll sich dem Asteroiden Ryugu so sehr nähern, dass sie Material von seiner Oberfläche einsaugen und zur Erde bringen kann.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_005_welt.216088.ref">It should get so close to the asteroid Ryugu that it can suck in material from its surface and bring it back to Earth.</translation>
+    <translation system="../data/appraise_import/deen_005_welt.216088.ht">The probe purportedly came so close to the Ryugu asteroid that material from the surface was able to be vacuumed and brought back to earth.</translation>
+    <translation system="../data/appraise_import/deen_005_welt.216088.mt">It is supposed to approach the asteroid Ryugu so close that it can suck in material from its surface and bring it to Earth.</translation>
+  </seg>
+  <seg id="4" doc-id="../data/appraise_import/deen_005_welt.216088.sl">
+    <source>Der Lander "Mascot" wird auf Ryugu bleiben.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_005_welt.216088.ref">The lander “Mascot” will remain on Ryugu.</translation>
+    <translation system="../data/appraise_import/deen_005_welt.216088.ht">The lander "Mascot" will stay on Ryugu.</translation>
+    <translation system="../data/appraise_import/deen_005_welt.216088.mt">The "Mascot" lander will remain on Ryugu.</translation>
+  </seg>
+</set>

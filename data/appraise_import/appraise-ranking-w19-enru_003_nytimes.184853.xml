@@ -1,0 +1,128 @@
+<set id="w19_enru" source-language="en" target-language="ru">
+  <seg id="1" doc-id="../data/appraise_import/enru_003_nytimes.184853.sl">
+    <source>The Bells of St. Martin's Fall Silent as Churches in Harlem Struggle</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.ht">Колокола Святого Мартина замолкают, пока церкви Гарлема ведут борьбу</translation>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.mt">Колокола падения Святого Мартина молчат, пока церкви в Гарлеме борются друг с другом</translation>
+  </seg>
+  <seg id="2" doc-id="../data/appraise_import/enru_003_nytimes.184853.sl">
+    <source>"Historically, the old people I've talked to say there was a bar and a church on every corner," Mr. Adams said.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.ht">«Пожилые люди, с которыми я разговаривал, говорят, что исторически на каждом углу были бар и церковь», - рассказал Адамс.</translation>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.mt">"Исторически старики, с которыми я разговаривал, говорят, что на каждом углу был бар и церковь", - сказал г-н Адамс.</translation>
+  </seg>
+  <seg id="3" doc-id="../data/appraise_import/enru_003_nytimes.184853.sl">
+    <source>"Today, there's neither."</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.ht">«Сегодня нет ни того, ни другого».</translation>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.mt">"Сегодня нет ни того, ни другого".</translation>
+  </seg>
+  <seg id="4" doc-id="../data/appraise_import/enru_003_nytimes.184853.sl">
+    <source>He said the disappearance of bars was understandable.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.ht">Он сказал, что исчезновение баров можно понять.</translation>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.mt">По его словам, исчезновение баров можно понять.</translation>
+  </seg>
+  <seg id="5" doc-id="../data/appraise_import/enru_003_nytimes.184853.sl">
+    <source>"People socialize in a different way" nowadays, he said.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.ht">Сегодня «люди общаются иначе», сказал он.</translation>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.mt">"Сегодня люди социализируются по-другому", - сказал он.</translation>
+  </seg>
+  <seg id="6" doc-id="../data/appraise_import/enru_003_nytimes.184853.sl">
+    <source>"Bars are no longer neighborhood living rooms where people go on a regular basis."</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.ht">«Бары перестали быть гостиными для всего района, куда люди ходят регулярно».</translation>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.mt">"Бары - это уже не соседние жилые комнаты, куда люди ходят регулярно".</translation>
+  </seg>
+  <seg id="7" doc-id="../data/appraise_import/enru_003_nytimes.184853.sl">
+    <source>As for churches, he worries that the money from selling assets will not last as long as leaders expect it to, "and sooner or later they'll be right back where they started."</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.ht">Что касается церквей, тут он волнуется, что денег, вырученных с продажи активов, не хватит так на долго, как ожидают лидеры, и «рано или поздно они окажутся там, откуда начинали».</translation>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.mt">Что касается церквей, то он опасается, что деньги от продажи активов не будут длиться так долго, как этого ожидают лидеры, "и рано или поздно они вернутся туда, где они начинали".</translation>
+  </seg>
+  <seg id="8" doc-id="../data/appraise_import/enru_003_nytimes.184853.sl">
+    <source>Churches, he added, could be replaced by apartment buildings with condominiums filled with the kind of people who will not help the neighborhood's remaining sanctuaries.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.ht">На смену церквям, добавил он, могут прийти многоквартирные здания с кондоминиумами, населённые людьми, которые не будут помогать оставшимся храмам в районе.</translation>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.mt">Церкви, добавил он, могут быть заменены многоквартирными домами с кондоминиумами, заполненными такими людьми, которые не будут помогать оставшимся в районе святилищам.</translation>
+  </seg>
+  <seg id="9" doc-id="../data/appraise_import/enru_003_nytimes.184853.sl">
+    <source>"The overwhelming majority of people who buy condominiums in these buildings will be white," he said, "and therefore will hasten the day that these churches close altogether because it is unlikely that most of these people who move into these condominiums will become members of these churches."</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.ht">«Подавляющее большинство людей, покупающих кондоминиумы в таких зданиях, будут белыми», - сказал он, - «и поэтому приблизят тот день, когда эти церкви закроются совсем, потому что вряд ли многие из тех людей, кто въедет в эти кондоминиумы, присоединятся к приходам этих церквей».</translation>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.mt">"Подавляющее большинство людей, которые покупают кондоминиумы в этих зданиях, будут белыми, - сказал он, - и поэтому ускорят тот день, когда эти церкви вообще закроются, потому что маловероятно, что большинство из этих людей, которые переедут в эти кондоминиумы, станут членами этих церквей".</translation>
+  </seg>
+  <seg id="10" doc-id="../data/appraise_import/enru_003_nytimes.184853.sl">
+    <source>Both churches were built by white congregations before Harlem became a black metropolis - Metropolitan Community in 1870, St. Martin's a decade later.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.ht">Обе церкви были построены белыми приходами ещё до того, как Гарлем превратился в чёрный район – Метропольная общинная церковь в 1870 году, церковь Святого Мартина на десять лет позже.</translation>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.mt">Обе церкви были построены белыми общинами до того, как Гарлем стал черной метрополией - Метрополитен-общиной в 1870 году, Святой Мартин десять лет спустя.</translation>
+  </seg>
+  <seg id="11" doc-id="../data/appraise_import/enru_003_nytimes.184853.sl">
+    <source>The original white Methodist congregation moved out in the 1930s.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.ht">Изначальный белый методистский приход уехал отсюда в тридцатые.</translation>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.mt">Первоначальная белая методистская община переехала в 1930-е годы.</translation>
+  </seg>
+  <seg id="12" doc-id="../data/appraise_import/enru_003_nytimes.184853.sl">
+    <source>A black congregation that had been worshiping nearby took title to the building.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.ht">Здание перешло к чёрному приходу, который молился по соседству.</translation>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.mt">Черная община, которая молилась неподалеку, взяла на себя право собственности на здание.</translation>
+  </seg>
+  <seg id="13" doc-id="../data/appraise_import/enru_003_nytimes.184853.sl">
+    <source>St. Martin's was taken over by a black congregation under the Rev. John Howard Johnson, who led a boycott of retailers on 125th Street, a main street for shopping in Harlem, who resisted hiring or promoting blacks.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.ht">Церковь Святого Мартина занял чёрный приход, возглавляемый Преподобным Джоном Говардом Джонсоном, который объявил бойкот владельцам магазинов на 125 улице, главной торговой улице Гарлема, которые не хотели нанимать или продвигать по службе чернокожих.</translation>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.mt">Церковь Святого Мартина была захвачена чернокожей общиной под руководством преподобного Джона Говарда Джонсона, который возглавил бойкот розничных торговцев на 125-й улице, главной улице для шопинга в Гарлеме, которые сопротивлялись найму или продвижению чернокожих.</translation>
+  </seg>
+  <seg id="14" doc-id="../data/appraise_import/enru_003_nytimes.184853.sl">
+    <source>A fire in 1939 left the building badly damaged, but as Father Johnson's parishioners made plans to rebuild, they commissioned the carillon.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.ht">Пожар 1939 года нанёс зданию серьёзные повреждения, но когда прихожане Отца Джонсона планировали ремонт, они заказали комплект колоколов.</translation>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.mt">В результате пожара в 1939 году здание сильно пострадало, но, поскольку прихожане отца Джонсона строили планы по восстановлению, они заказали карильон.</translation>
+  </seg>
+  <seg id="15" doc-id="../data/appraise_import/enru_003_nytimes.184853.sl">
+    <source>The Rev. David Johnson, Father Johnson's son and successor at St. Martin's, proudly called the carillon "the poor people's bells."</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.ht">Преподобный Дэвид Джонсон, сын и преемник Отца Джонсона в церкви Святого Мартина, гордо назвал колокола «колоколами бедняков».</translation>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.mt">Преподобный Дэвид Джонсон, сын и преемник отца Джонсона в церкви Святого Мартина, с гордостью назвал карильон "колоколами бедных людей".</translation>
+  </seg>
+  <seg id="16" doc-id="../data/appraise_import/enru_003_nytimes.184853.sl">
+    <source>The expert who played the carillon in July called it something else: "A cultural treasure" and "an irreplaceable historical instrument."</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.ht">Мастер, игравший на колоколах в июле, назвал их иначе: «Культурное достояние» и «незаменимый исторический инструмент».</translation>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.mt">Эксперт, который играл на карильоне в июле, назвал его чем-то другим: "культурным сокровищем" и "незаменимым историческим инструментом".</translation>
+  </seg>
+  <seg id="17" doc-id="../data/appraise_import/enru_003_nytimes.184853.sl">
+    <source>The expert, Tiffany Ng of the University of Michigan, also noted that it was the first carillon in the world to be played by a black musician, Dionisio A. Lind, who moved to the larger carillon at the Riverside Church 18 years ago.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.ht">Мастер, Тиффани Нг из Мичиганского университета, также отметила, что это были первые колокола в мире, на которых играл чернокожий музыкант, Дионисио А. Линд, который 18 лет назад перешёл на более крупный комплект колоколов в церкви Риверсайд.</translation>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.mt">Эксперт, Тиффани Нг из Мичиганского университета, также отметила, что это был первый карильон в мире, который играл чернокожий музыкант Дионисио А. Линд, переехавший на более крупный карильон в церкви Риверсайд 18 лет назад.</translation>
+  </seg>
+  <seg id="18" doc-id="../data/appraise_import/enru_003_nytimes.184853.sl">
+    <source>Mr. Merriweather said that St. Martin's did not replace him.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.ht">Мэрриуэзер сказал, что церковь Святого Мартина не стала его заменять.</translation>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.mt">Г-н Мерривезер сказал, что "Сент-Мартин" не заменил его.</translation>
+  </seg>
+  <seg id="19" doc-id="../data/appraise_import/enru_003_nytimes.184853.sl">
+    <source>What has played out at St. Martin's over the last few months has been a complicated tale of architects and contractors, some brought in by the lay leaders of the church, others by the Episcopal diocese.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.ht">На протяжении последних месяцев в церкви Святого Мартина разыгрывалась сложная история архитекторов и подрядчиков, часть которых привели светские руководители церкви, а других – епископальная епархия.</translation>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.mt">То, что происходило в церкви Святого Мартина в течение последних нескольких месяцев, было сложной историей архитекторов и подрядчиков, некоторые из которых были привлечены светскими лидерами церкви, другие - епископальной епархией.</translation>
+  </seg>
+  <seg id="20" doc-id="../data/appraise_import/enru_003_nytimes.184853.sl">
+    <source>The vestry - the parish's governing body, made up of lay leaders - wrote the diocese in July with concerns that the diocese "would seek to pass along the costs" to the vestry, even though the vestry had not been involved in hiring the architects and contractors the diocese sent in.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.ht">Приходское управление – институт, которому подчиняется приход, составленный из светских руководителей – в июле письменно обратились к епархии, выражая беспокойство, что епархия «будет пытаться передать расходы» приходскому управлению, несмотря на то, что управление не имело отношения к найму архитекторов и подрядчиков, которых прислала епархия.</translation>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.mt">Вестник - руководящий орган прихода, состоящий из мирян-лидеров - написал епархии в июле с беспокойством, что епархия "будет стремиться переложить расходы" на вестник, даже несмотря на то, что вестник не участвовал в найме архитекторов и подрядчиков, которых прислала епархия.</translation>
+  </seg>
+  <seg id="21" doc-id="../data/appraise_import/enru_003_nytimes.184853.sl">
+    <source>Some parishioners complained of a lack of transparency on the diocese's part.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.ht">Некоторые прихожане жаловались на недостаточную прозрачность со стороны епархии.</translation>
+    <translation system="../data/appraise_import/enru_003_nytimes.184853.mt">Некоторые прихожане жаловались на отсутствие прозрачности со стороны епархии.</translation>
+  </seg>
+</set>

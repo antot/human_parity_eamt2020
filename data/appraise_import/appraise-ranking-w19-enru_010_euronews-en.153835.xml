@@ -1,0 +1,26 @@
+<set id="w19_enru" source-language="en" target-language="ru">
+  <seg id="1" doc-id="../data/appraise_import/enru_010_euronews-en.153835.sl">
+    <source>Death toll from Indonesia tsunami rises to 832</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_010_euronews-en.153835.ht">Число погибших от цунами возросло до 832</translation>
+    <translation system="../data/appraise_import/enru_010_euronews-en.153835.mt">Число жертв цунами в Индонезии возросло до 832 человек</translation>
+  </seg>
+  <seg id="2" doc-id="../data/appraise_import/enru_010_euronews-en.153835.sl">
+    <source>The death toll in Indonesia's earthquake and tsunami has climbed to 832, the country's disaster agency said early Sunday.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_010_euronews-en.153835.ht">Число погибших от землетрясения и цунами в Индонезии возросло до 832, как сообщило Агентство по чрезвычайным ситуациям страны утром воскресенья. Как сообщило Агентство по чрезвычайным ситуациям страны утром воскресенья, число погибших от землетрясения и цунами в Индонезии возросло до 832.</translation>
+    <translation system="../data/appraise_import/enru_010_euronews-en.153835.mt">Число жертв землетрясения и цунами в Индонезии возросло до 832 человек, сообщило рано утром в воскресенье агентство по чрезвычайным ситуациям страны.</translation>
+  </seg>
+  <seg id="3" doc-id="../data/appraise_import/enru_010_euronews-en.153835.sl">
+    <source>Many people were reported trapped in the rubble of buildings brought down in the 7.5 magnitude earthquake which struck Friday and triggered waves as high as 20 feet, agency spokesman Sutopo Purwo Nugroho told a news conference.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_010_euronews-en.153835.ht">Были сообщения о том, что многие люди застряли в обломках зданий, обрушенных землятресением магнитудой в 7.5 баллов, которое случилось в пятницу и вызвало волны высотой до 20 футов, как сказал на пресс-конференции представитель агентства Сутопо Пурво Нугрохо. По словам представителя агентства Сутопо Пурво Нугрохо на пресс-конференции, были сообщения о том, что многие люди застряли в обломках зданий, обрушенных землятресением магнитудой в 7.5 баллов, которое случилось в пятницу и вызвало волны высотой до 20 футов.</translation>
+    <translation system="../data/appraise_import/enru_010_euronews-en.153835.mt">Сообщается, что многие люди оказались в ловушке под обломками зданий, разрушенных землетрясением магнитудой 7,5, которое произошло в пятницу и вызвало волны высотой до 20 футов, сообщил на пресс-конференции представитель агентства Сутопо Пурво Нугрохо.</translation>
+  </seg>
+  <seg id="4" doc-id="../data/appraise_import/enru_010_euronews-en.153835.sl">
+    <source>The city of Palu, which has more than 380,000 people, was strewn with debris from collapsed buildings.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_010_euronews-en.153835.ht">Город Палу, в котором проживало более 380000 человек, был завален остатками обрушившихся зданий.</translation>
+    <translation system="../data/appraise_import/enru_010_euronews-en.153835.mt">Город Палу, в котором проживает более 380 тысяч человек, был усеян обломками рухнувших зданий.</translation>
+  </seg>
+</set>

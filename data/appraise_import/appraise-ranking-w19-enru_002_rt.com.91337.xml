@@ -1,0 +1,38 @@
+<set id="w19_enru" source-language="en" target-language="ru">
+  <seg id="1" doc-id="../data/appraise_import/enru_002_rt.com.91337.sl">
+    <source>Macedonians go to polls in referendum on changing country's name</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_002_rt.com.91337.ht">Македонцы идут гоолосовать на референдуме по переименованию страны</translation>
+    <translation system="../data/appraise_import/enru_002_rt.com.91337.mt">Македонцы идут на избирательные участки на референдуме об изменении названия страны</translation>
+  </seg>
+  <seg id="2" doc-id="../data/appraise_import/enru_002_rt.com.91337.sl">
+    <source>Voters will vote Sunday on whether to change their country's name to the "Republic of North Macedonia."</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_002_rt.com.91337.ht">Избиратели проголосуют в воскресенье за переименование своей страны в "Республику Северную Македонию".</translation>
+    <translation system="../data/appraise_import/enru_002_rt.com.91337.mt">Избиратели проголосуют в воскресенье по вопросу об изменении названия своей страны на "Республику Северная Македония".</translation>
+  </seg>
+  <seg id="3" doc-id="../data/appraise_import/enru_002_rt.com.91337.sl">
+    <source>The popular vote was set up in a bid to resolve a decades-long dispute with neighboring Greece, which has its own province called Macedonia.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_002_rt.com.91337.ht">Народное голосование было организовано с целью разрешить многолетний спор с соседней Грецией, в которой есть собственная профинция под названием Македония.</translation>
+    <translation system="../data/appraise_import/enru_002_rt.com.91337.mt">Народное голосование было организовано в попытке разрешить многолетний спор с соседней Грецией, которая имеет свою собственную провинцию под названием Македония.</translation>
+  </seg>
+  <seg id="4" doc-id="../data/appraise_import/enru_002_rt.com.91337.sl">
+    <source>Athens has long insisted that its northern neighbor's name represents a claim on its territory and has repeatedly objected to its membership bids for the EU and NATO.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_002_rt.com.91337.ht">Афины долгое время настаивают на том, что название их северного соседа представлет собой претензию на их территории, и неоднократно отклоняли заявки на его членство в ЕС и НАТО.</translation>
+    <translation system="../data/appraise_import/enru_002_rt.com.91337.mt">Афины уже давно настаивают на том, что название северного соседа представляет собой претензию на их территорию, и неоднократно возражали против вступления страны в ЕС и НАТО.</translation>
+  </seg>
+  <seg id="5" doc-id="../data/appraise_import/enru_002_rt.com.91337.sl">
+    <source>Macedonian President Gjorge Ivanov, an opponent of the plebiscite on the name change, has said he will disregard the vote.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_002_rt.com.91337.ht">Президент Македонии Георге Иванов, противник рефендума по переименованию, сказал, что он манкирует голосованием.</translation>
+    <translation system="../data/appraise_import/enru_002_rt.com.91337.mt">Президент Македонии Георге Иванов, противник плебисцита по изменению названия, заявил, что проигнорирует результаты голосования.</translation>
+  </seg>
+  <seg id="6" doc-id="../data/appraise_import/enru_002_rt.com.91337.sl">
+    <source>However, supporters of the referendum, including Prime Minister Zoran Zaev, argue that the name change is simply the price to pay to join the EU and NATO.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_002_rt.com.91337.ht">Однако сторонники референдума, включая премьер-министра Зорана Заева, утверждают, что переименование - это всего лишь цена, которую необходимо заплатить, чтобы присоединиться к ЕС и НАТО.</translation>
+    <translation system="../data/appraise_import/enru_002_rt.com.91337.mt">Однако сторонники референдума, в том числе премьер-министр Зоран Заев, утверждают, что смена названия - это просто цена, которую придется заплатить за вступление в ЕС и НАТО.</translation>
+  </seg>
+</set>

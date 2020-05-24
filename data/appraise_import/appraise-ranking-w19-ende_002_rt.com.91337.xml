@@ -1,0 +1,38 @@
+<set id="w19_ende" source-language="en" target-language="de">
+  <seg id="1" doc-id="../data/appraise_import/ende_002_rt.com.91337.sl">
+    <source>Macedonians go to polls in referendum on changing country's name</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_002_rt.com.91337.ht">Mazedonier halten über die Änderung des Landesnamens ein Referendum ab.</translation>
+    <translation system="../data/appraise_import/ende_002_rt.com.91337.mt">Mazedonier gehen bei Referendum über Namensänderung des Landes zur Wahl</translation>
+  </seg>
+  <seg id="2" doc-id="../data/appraise_import/ende_002_rt.com.91337.sl">
+    <source>Voters will vote Sunday on whether to change their country's name to the "Republic of North Macedonia."</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_002_rt.com.91337.ht">Am Sonntag stimmen die Wahlberechtigten über die Änderung des Landesnamens zu „Republik Nordmazedonien“ ab.</translation>
+    <translation system="../data/appraise_import/ende_002_rt.com.91337.mt">Die Wähler stimmen am Sonntag darüber ab, ob sie den Namen ihres Landes in „Republik Nord-Mazedonien“ ändern sollen.</translation>
+  </seg>
+  <seg id="3" doc-id="../data/appraise_import/ende_002_rt.com.91337.sl">
+    <source>The popular vote was set up in a bid to resolve a decades-long dispute with neighboring Greece, which has its own province called Macedonia.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_002_rt.com.91337.ht">Die Volksabstimmung wird abgehalten, um einen jahrzehntelangen Streit mit dem benachbarten Griechenland beizulegen, in dem eine Provinz den Namen Mazedonien trägt.</translation>
+    <translation system="../data/appraise_import/ende_002_rt.com.91337.mt">Die Volksabstimmung wurde ins Leben gerufen, um einen jahrzehntelangen Streit mit dem benachbarten Griechenland zu lösen, das eine eigene Provinz namens Mazedonien hat.</translation>
+  </seg>
+  <seg id="4" doc-id="../data/appraise_import/ende_002_rt.com.91337.sl">
+    <source>Athens has long insisted that its northern neighbor's name represents a claim on its territory and has repeatedly objected to its membership bids for the EU and NATO.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_002_rt.com.91337.ht">Athen beharrt seit langem darauf, dass der Name seines nördlichen Nachbarn einen Anspruch auf sein Territorium darstellt und hat wiederholt Einspruch gegen seinen Aufnahmeantrag für die EU und die NATO erhoben.</translation>
+    <translation system="../data/appraise_import/ende_002_rt.com.91337.mt">Athen beharrt seit langem darauf, dass der Name seines nördlichen Nachbarn einen Anspruch auf sein Territorium darstellt, und hat wiederholt Einwände gegen seine Mitgliedsanträge für die EU und die NATO erhoben.</translation>
+  </seg>
+  <seg id="5" doc-id="../data/appraise_import/ende_002_rt.com.91337.sl">
+    <source>Macedonian President Gjorge Ivanov, an opponent of the plebiscite on the name change, has said he will disregard the vote.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_002_rt.com.91337.ht">Der mazedonische Präsident Gjorge Ivanov, ein Gegner des Referendums bezüglich der Namensänderung, hat gesagt, er werde die Abstimmung ignorieren.</translation>
+    <translation system="../data/appraise_import/ende_002_rt.com.91337.mt">Der mazedonische Präsident Gjorge Ivanov, ein Gegner des Plebiszits über die Namensänderung, hat erklärt, er werde die Abstimmung missachten.</translation>
+  </seg>
+  <seg id="6" doc-id="../data/appraise_import/ende_002_rt.com.91337.sl">
+    <source>However, supporters of the referendum, including Prime Minister Zoran Zaev, argue that the name change is simply the price to pay to join the EU and NATO.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_002_rt.com.91337.ht">Die Befürworter des Referendums, einschließlich des Premierministers Zoran Zaev, argumentieren jedoch, dass die Namensänderung ganz einfach der Preis ist, den man für den Beitritt zur EU und zur NATO zahlen muss.</translation>
+    <translation system="../data/appraise_import/ende_002_rt.com.91337.mt">Die Befürworter des Referendums, darunter Ministerpräsident Zoran Zaev, argumentieren jedoch, dass die Namensänderung lediglich der Preis sei, den man für den Beitritt zur EU und zur NATO zahlen müsse.</translation>
+  </seg>
+</set>

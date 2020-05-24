@@ -1,0 +1,44 @@
+<set id="w19_deen" source-language="de" target-language="en">
+  <seg id="1" doc-id="../data/appraise_import/deen_009_derstandart.at.298088.sl">
+    <source>Richtig abnehmen mit halbkluger Waage</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_009_derstandart.at.298088.ref">Losing weight the right way with semi-smart scales</translation>
+    <translation system="../data/appraise_import/deen_009_derstandart.at.298088.ht">Smart weight loss with smart scales</translation>
+    <translation system="../data/appraise_import/deen_009_derstandart.at.298088.mt">Lose weight correctly with half-smart scales</translation>
+  </seg>
+  <seg id="2" doc-id="../data/appraise_import/deen_009_derstandart.at.298088.sl">
+    <source>Ich besitze seit vier Wochen ein neues Spielzeug.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_009_derstandart.at.298088.ref">I have owned a new toy for four weeks now.</translation>
+    <translation system="../data/appraise_import/deen_009_derstandart.at.298088.ht">For four weeks, I have been the owner of a new toy.</translation>
+    <translation system="../data/appraise_import/deen_009_derstandart.at.298088.mt">I have had a new toy for four weeks.</translation>
+  </seg>
+  <seg id="3" doc-id="../data/appraise_import/deen_009_derstandart.at.298088.sl">
+    <source>Eine Waage, die nicht nur mein Gewicht misst, sondern auch den Körperfettanteil.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_009_derstandart.at.298088.ref">Scales that weigh my body fat percentage as well as my weight.</translation>
+    <translation system="../data/appraise_import/deen_009_derstandart.at.298088.ht">It is a weighing scale which not only measures my weight, but also my body fat percentage.</translation>
+    <translation system="../data/appraise_import/deen_009_derstandart.at.298088.mt">A scale that measures not only my weight, but also the percentage of body fat.</translation>
+  </seg>
+  <seg id="4" doc-id="../data/appraise_import/deen_009_derstandart.at.298088.sl">
+    <source>Auch Muskel- und Knochenmasse kann sie anzeigen.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_009_derstandart.at.298088.ref">Even muscle and bone mass can be displayed.</translation>
+    <translation system="../data/appraise_import/deen_009_derstandart.at.298088.ht">It can also display bone and muscle mass.</translation>
+    <translation system="../data/appraise_import/deen_009_derstandart.at.298088.mt">It can also indicate muscle and bone mass.</translation>
+  </seg>
+  <seg id="5" doc-id="../data/appraise_import/deen_009_derstandart.at.298088.sl">
+    <source>Den Body-Mass-Index berechnet das Ding auch, aber der ist eher für die Würscht.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_009_derstandart.at.298088.ref">This thing also calculates my body mass index but that is rather useless anyway.</translation>
+    <translation system="../data/appraise_import/deen_009_derstandart.at.298088.ht">It can also calculate your BMI, but this measurement does not really tell you anything.</translation>
+    <translation system="../data/appraise_import/deen_009_derstandart.at.298088.mt">The thing also calculates the body mass index, but this is more for the sausages.</translation>
+  </seg>
+  <seg id="6" doc-id="../data/appraise_import/deen_009_derstandart.at.298088.sl">
+    <source>Sagt er doch nichts darüber aus, ob ich Fett durch Muskeln ersetzt habe.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_009_derstandart.at.298088.ref">After all, it does not tell me whether I have been replacing fat with muscle.</translation>
+    <translation system="../data/appraise_import/deen_009_derstandart.at.298088.ht">It gives no indication if I have replaced fat with muscle.</translation>
+    <translation system="../data/appraise_import/deen_009_derstandart.at.298088.mt">It doesn't say anything about whether I've replaced fat with muscle.</translation>
+  </seg>
+</set>

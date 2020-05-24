@@ -1,0 +1,26 @@
+<set id="w19_ende" source-language="en" target-language="de">
+  <seg id="1" doc-id="../data/appraise_import/ende_016_reuters.218882.sl">
+    <source>British PM May accuses critics of 'playing politics' over Brexit</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_016_reuters.218882.ht">Britische Premierministerin May wirft Kritikern vor, den Brexit für „politische Spielchen“ zu missbrauchen</translation>
+    <translation system="../data/appraise_import/ende_016_reuters.218882.mt">Britische Premierministerin May wirft Kritikern vor, beim Brexit „Politik zu spielen“</translation>
+  </seg>
+  <seg id="2" doc-id="../data/appraise_import/ende_016_reuters.218882.sl">
+    <source>Prime Minister Theresa May accused critics of her plans to leave the European Union of "playing politics" with Britain's future and undermining the national interest in an interview with the Sunday Times newspaper.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_016_reuters.218882.ht">In einem Interview mit der Sunday Times warf Premierministerin Theresa May Kritikern ihrer Pläne für den Austritt aus der Europäischen Union vor, „politische Spielchen“ mit der Zukunft Großbritanniens zu betreiben und die nationalen Interessen zu unterwandern.</translation>
+    <translation system="../data/appraise_import/ende_016_reuters.218882.mt">Premierministerin Theresa May warf Kritikern ihrer Pläne, die Europäische Union zu verlassen, in einem Interview mit der Zeitung Sunday Times vor, mit der Zukunft Großbritanniens „Politik zu spielen“ und das nationale Interesse zu untergraben.</translation>
+  </seg>
+  <seg id="3" doc-id="../data/appraise_import/ende_016_reuters.218882.sl">
+    <source>Britain's Prime Minister Theresa May arrives for the Conservative Party Conference in Birmingham, Britain, September 29, 2018.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_016_reuters.218882.ht">Die britische Premierministerin Theresa May erscheint zur Conservative Party Conference in Birmingham in Großbritannien am 29. September 2018.</translation>
+    <translation system="../data/appraise_import/ende_016_reuters.218882.mt">Großbritanniens Premierministerin Theresa May kommt am 29. September 2018 zum Parteitag der Konservativen in Birmingham, Großbritannien.</translation>
+  </seg>
+  <seg id="4" doc-id="../data/appraise_import/ende_016_reuters.218882.sl">
+    <source>In another interview next to the one with her on the newspaper's front page, her former foreign minister Boris Johnson pressed his attack of her so-called Chequers plan for Brexit, saying a proposal that Britain and the EU should collect each other's tariffs was "entirely preposterous."</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_016_reuters.218882.ht">In einem anderen Interview neben dem mit ihr auf der Titelseite der Zeitung, attackierte ihr ehemaliger Außenminister Boris Johnson ihren sogenannten Chequers-Plan für den Brexit und sagte, der Vorschlag, dass Großbritannien und die EU die Zölle des anderen vereinnahmen sollten, „völlig absurd“ sei.</translation>
+    <translation system="../data/appraise_import/ende_016_reuters.218882.mt">In einem weiteren Interview neben dem mit ihr auf der Titelseite der Zeitung griff ihr ehemaliger Außenminister Boris Johnson ihren so genannten Chequers-Plan für den Brexit scharf an und sagte, ein Vorschlag, dass Großbritannien und die EU die Zölle des jeweils anderen eintreiben sollten, sei „völlig absurd“.</translation>
+  </seg>
+</set>

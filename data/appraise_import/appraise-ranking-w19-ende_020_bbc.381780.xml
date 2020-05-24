@@ -1,0 +1,32 @@
+<set id="w19_ende" source-language="en" target-language="de">
+  <seg id="1" doc-id="../data/appraise_import/ende_020_bbc.381780.sl">
+    <source>Londonderry: Men arrested after house rammed by car</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_020_bbc.381780.ht">Londonderry: Männer verhaftet, nachdem das Haus mit dem Auto gerammt wurde.</translation>
+    <translation system="../data/appraise_import/ende_020_bbc.381780.mt">Londonderry: Männer festgenommen, nachdem Haus von Auto gerammt wurde</translation>
+  </seg>
+  <seg id="2" doc-id="../data/appraise_import/ende_020_bbc.381780.sl">
+    <source>Three men, aged 33, 34 and 39, have been arrested after a car was repeatedly rammed into a house in Londonderry.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_020_bbc.381780.ht">Drei Männer im Alter von 33, 34 und 39 Jahren wurden festgenommen, nachdem ein Auto wiederholt in ein Haus in Londonderry gerammt wurde.</translation>
+    <translation system="../data/appraise_import/ende_020_bbc.381780.mt">Drei Männer im Alter von 33, 34 und 39 Jahren wurden festgenommen, nachdem ein Auto wiederholt in ein Haus in Londonderry gerammt worden war.</translation>
+  </seg>
+  <seg id="3" doc-id="../data/appraise_import/ende_020_bbc.381780.sl">
+    <source>The incident unfolded in Ballynagard Crescent on Thursday at about 19:30 BST.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_020_bbc.381780.ht">Der Vorfall ereignete sich in Ballynagard Crescent am Donnerstag um ca. 19:30 britischer Sommerzeit.</translation>
+    <translation system="../data/appraise_import/ende_020_bbc.381780.mt">Der Vorfall ereignete sich in Ballynagard Crescent am Donnerstag gegen 19: 30 BST.</translation>
+  </seg>
+  <seg id="4" doc-id="../data/appraise_import/ende_020_bbc.381780.sl">
+    <source>Det Insp Bob Blemmings said damage was caused to the gates and the building itself.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_020_bbc.381780.ht">Kriminalinspektor Bob Blemmings sagte, dass sowohl das Tor als auch das Gebäude selbst beschädigt wurden.</translation>
+    <translation system="../data/appraise_import/ende_020_bbc.381780.mt">Det Insp Bob Blemmings sagte, dass Schäden an den Toren und am Gebäude selbst entstanden seien.</translation>
+  </seg>
+  <seg id="5" doc-id="../data/appraise_import/ende_020_bbc.381780.sl">
+    <source>A crossbow may also have been fired at the car at some point.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_020_bbc.381780.ht">Außerdem wurde vermutlich mit einer Armbrust auf das Auto geschossen.</translation>
+    <translation system="../data/appraise_import/ende_020_bbc.381780.mt">Irgendwann könnte auch eine Armbrust auf das Auto abgefeuert worden sein.</translation>
+  </seg>
+</set>

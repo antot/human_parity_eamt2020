@@ -1,0 +1,98 @@
+<set id="w19_enru" source-language="en" target-language="ru">
+  <seg id="1" doc-id="../data/appraise_import/enru_001_bbc.381790.sl">
+    <source>Welsh AMs worried about 'looking like muppets'</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.ht">Члены Национальной ассамблеи Уэльса обеспокоены, что "выглядят как куклы"</translation>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.mt">Валлийские АМ обеспокоены тем, что "выглядят как маппеты"</translation>
+  </seg>
+  <seg id="2" doc-id="../data/appraise_import/enru_001_bbc.381790.sl">
+    <source>There is consternation among some AMs at a suggestion their title should change to MWPs (Member of the Welsh Parliament).</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.ht">Некоторые члены Национальной ассамблеи Уэльса в ужасе от предложения о том, что их наименование должно измениться на MPW (члены Парламента Уэльса).</translation>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.mt">Некоторые АМ в ужасе от предложения изменить их название на MWP (Member of the Welsh Parliament).</translation>
+  </seg>
+  <seg id="3" doc-id="../data/appraise_import/enru_001_bbc.381790.sl">
+    <source>It has arisen because of plans to change the name of the assembly to the Welsh Parliament.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.ht">Этот вопрос был поднят в связи с планами по переименованию ассамблеи в Парламент Уэльса.</translation>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.mt">Она возникла из-за планов переименовать ассамблею в парламент Уэльса.</translation>
+  </seg>
+  <seg id="4" doc-id="../data/appraise_import/enru_001_bbc.381790.sl">
+    <source>AMs across the political spectrum are worried it could invite ridicule.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.ht">Члены Национальной ассамблеи Уэльса всего политического спектра обеспокоены, что это может породить насмешки.</translation>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.mt">АМ всего политического спектра обеспокоены тем, что это может вызвать насмешки.</translation>
+  </seg>
+  <seg id="5" doc-id="../data/appraise_import/enru_001_bbc.381790.sl">
+    <source>One Labour AM said his group was concerned "it rhymes with Twp and Pwp."</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.ht">Один из лейбористских членов Национальной ассамблеи Уэльса сказал, что его партия обеспокоена тем, что "это рифмуется с Twp и Pwp".</translation>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.mt">Один из лейбористов заявил, что его группа обеспокоена тем, что "это рифмуется с Twp и Pwp".</translation>
+  </seg>
+  <seg id="6" doc-id="../data/appraise_import/enru_001_bbc.381790.sl">
+    <source>For readers outside of Wales: In Welsh twp means daft and pwp means poo.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.ht">Для читателей за предлами Уэльса: по-валлийски twp означает "глупый", а pwp означает "какашка".</translation>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.mt">Для читателей за пределами Уэльса: по-валлийски twp означает daft, а pwp - poo.</translation>
+  </seg>
+  <seg id="7" doc-id="../data/appraise_import/enru_001_bbc.381790.sl">
+    <source>A Plaid AM said the group as a whole was "not happy" and has suggested alternatives.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.ht">Член Национальной ассамблеи от Плайд сказал, что эта партия в целом "не счастлива" и предложил альтернативы.</translation>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.mt">A Plaid AM заявила, что группа в целом "не довольна" и предложила альтернативные варианты.</translation>
+  </seg>
+  <seg id="8" doc-id="../data/appraise_import/enru_001_bbc.381790.sl">
+    <source>A Welsh Conservative said his group was "open minded" about the name change, but noted it was a short verbal hop from MWP to Muppet.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.ht">Представитель Консервативной партии Уэльса сказал, что его партия "открыта" к переименованию, но отметил, что между WMP и Muppet небольшая разница в произношении.</translation>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.mt">Уэльский консерватор сказал, что его группа "непредвзято" относится к смене названия, но отметил, что это был короткий словесный скачок от MWP к Muppet.</translation>
+  </seg>
+  <seg id="9" doc-id="../data/appraise_import/enru_001_bbc.381790.sl">
+    <source>In this context The Welsh letter w is pronounced similarly to the Yorkshire English pronunciation of the letter u.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.ht">В этом контексте валлийская буква w произносится так же, как буква u в произношении йоркширского английского.</translation>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.mt">В этом контексте валлийская буква w произносится так же, как йоркширское английское произношение буквы u.</translation>
+  </seg>
+  <seg id="10" doc-id="../data/appraise_import/enru_001_bbc.381790.sl">
+    <source>The Assembly Commission, which is currently drafting legislation to introduce the name changes, said: "The final decision on any descriptors of what Assembly Members are called will of course be a matter for the members themselves."</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.ht">В Комиссии Ассамблеи, которая сейчас готовит черновик закона, чтобы представить переименование, сказали: "Окончательное решение по поводу любых описаний того, как будут называться члены Ассамблеи, будет, конечно, приниматься самими членами".</translation>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.mt">Комиссия Скупщины, которая в настоящее время разрабатывает законопроект о внесении изменений в название, сказала: "Окончательное решение по любым дескрипторам того, как называются члены Скупщины, будет, конечно, зависеть от самих членов".</translation>
+  </seg>
+  <seg id="11" doc-id="../data/appraise_import/enru_001_bbc.381790.sl">
+    <source>The Government of Wales Act 2017 gave the Welsh assembly the power to change its name.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.ht">Акт Правительства Уэльса в 2017 году дал Ассамблее Уальса полномочия изменить свое название.</translation>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.mt">Закон о правительстве Уэльса 2017 года предоставил ассамблее Уэльса право изменить свое название.</translation>
+  </seg>
+  <seg id="12" doc-id="../data/appraise_import/enru_001_bbc.381790.sl">
+    <source>In June, the Commission published the results of a public consultation on the proposals which found broad support for calling the assembly a Welsh Parliament.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.ht">В июне Комиссия опубликовала результаты общественных консультаций по поводу предложений, которые встретили большую поддержку в названии ассамблеи Парламентом Уэльса.</translation>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.mt">В июне Комиссия опубликовала результаты общественных консультаций по предложениям, которые нашли широкую поддержку для того, чтобы назвать ассамблею парламентом Уэльса.</translation>
+  </seg>
+  <seg id="13" doc-id="../data/appraise_import/enru_001_bbc.381790.sl">
+    <source>On the matter of the AMs' title, the Commission favoured Welsh Parliament Members or WMPs, but the MWP option received the most support in a public consultation.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.ht">Что касается названия для членов Национальной ассамблеи Уэльса, Комиссия предпочла члены Парламента Уэльса или WMP, но вариант MWP вызвал больше поддержки на общественных консультациях.</translation>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.mt">Что касается названия AM, то Комиссия отдала предпочтение членам парламента Уэльса или WMP, но вариант MWP получил наибольшую поддержку в ходе общественных консультаций.</translation>
+  </seg>
+  <seg id="14" doc-id="../data/appraise_import/enru_001_bbc.381790.sl">
+    <source>AMs are apparently suggesting alternative options, but the struggle to reach consensus could be a headache for the Presiding Officer, Elin Jones, who is expected to submit draft legislation on the changes within weeks.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.ht">Члены Национальной ассамблеи Уэльса, очевидно, предлагают альтернативные варианты, но борьва за консенсус может стать головной болью для Председателя комиссии, Элин Джонс, которая, как ожидается, подготовит черновик закона в ближайшие несколько недель.</translation>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.mt">АМ, по-видимому, предлагают альтернативные варианты, но борьба за достижение консенсуса может стать головной болью для председателя, Элин Джонс, которая, как ожидается, представит проект закона об изменениях в течение нескольких недель.</translation>
+  </seg>
+  <seg id="15" doc-id="../data/appraise_import/enru_001_bbc.381790.sl">
+    <source>The legislation on the reforms will include other changes to the way the assembly works, including rules on disqualification of AMs and the design of the committee system.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.ht">Закон о реформах также будет включать другие изменения в порядке работы ассамблеи, включая правила дисквалификации Членов Национальной ассамблеи Уэльса и дизайн системы комитетов.</translation>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.mt">Законодательство о реформах будет включать в себя и другие изменения в том, как работает собрание, в том числе правила о дисквалификации АМ и конструкцию системы комитетов.</translation>
+  </seg>
+  <seg id="16" doc-id="../data/appraise_import/enru_001_bbc.381790.sl">
+    <source>AMs will get the final vote on the question of what they should be called when they debate the legislation.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.ht">Члены Национальной ассамблеи проведут итоговое голосование по поводу того, как их называют после того, как они обсудят закон.</translation>
+    <translation system="../data/appraise_import/enru_001_bbc.381790.mt">АМ получат окончательное голосование по вопросу о том, как они должны называться, когда они будут обсуждать этот закон.</translation>
+  </seg>
+</set>

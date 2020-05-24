@@ -1,0 +1,26 @@
+<set id="w19_ende" source-language="en" target-language="de">
+  <seg id="1" doc-id="../data/appraise_import/ende_010_euronews-en.153835.sl">
+    <source>Death toll from Indonesia tsunami rises to 832</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_010_euronews-en.153835.ht">Zahl der Todesopfer in Indonesien steigt auf 832</translation>
+    <translation system="../data/appraise_import/ende_010_euronews-en.153835.mt">Zahl der Todesopfer durch Tsunami in Indonesien steigt auf 832</translation>
+  </seg>
+  <seg id="2" doc-id="../data/appraise_import/ende_010_euronews-en.153835.sl">
+    <source>The death toll in Indonesia's earthquake and tsunami has climbed to 832, the country's disaster agency said early Sunday.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_010_euronews-en.153835.ht">Die Anzahl der Todesopfer nach dem Erdbeben und dem Tsunami in Indonesien ist auf 832 gestiegen, teilte die Katastrophenhilfe des Landes am Sonntagmorgen mit.</translation>
+    <translation system="../data/appraise_import/ende_010_euronews-en.153835.mt">Die Zahl der Todesopfer bei dem Erdbeben und Tsunami in Indonesien ist auf 832 gestiegen, wie die Katastrophenbehörde des Landes am frühen Sonntag mitteilte.</translation>
+  </seg>
+  <seg id="3" doc-id="../data/appraise_import/ende_010_euronews-en.153835.sl">
+    <source>Many people were reported trapped in the rubble of buildings brought down in the 7.5 magnitude earthquake which struck Friday and triggered waves as high as 20 feet, agency spokesman Sutopo Purwo Nugroho told a news conference.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_010_euronews-en.153835.ht">Es wurde berichtet, dass viele Menschen unter den Trümmern von Gebäuden gefangen waren, die beim Erdbeben am Freitag der Stärke 7,5 zum Einsturz gebracht wurden und Wellen von bis zu 6 m Höhe auslöste, sagte Agentursprecher Sutopo Purwo Nugroho auf einer Pressekonferenz.</translation>
+    <translation system="../data/appraise_import/ende_010_euronews-en.153835.mt">Viele Menschen seien in den Trümmern von Gebäuden eingeschlossen, die bei dem Erdbeben der Stärke 7,5 am Freitag eingestürzt waren und Wellen von bis zu 20 Fuß Höhe ausgelöst hatten, sagte Behördensprecher Sutopo Purwo Nugroho auf einer Pressekonferenz.</translation>
+  </seg>
+  <seg id="4" doc-id="../data/appraise_import/ende_010_euronews-en.153835.sl">
+    <source>The city of Palu, which has more than 380,000 people, was strewn with debris from collapsed buildings.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_010_euronews-en.153835.ht">Palu, eine Stadt mit mehr als 380.000 Einwohnern, war mit Trümmern von eingestürzten Gebäuden übersät.</translation>
+    <translation system="../data/appraise_import/ende_010_euronews-en.153835.mt">Die Stadt Palu mit mehr als 380.000 Einwohnern war mit Trümmern eingestürzter Gebäude übersät.</translation>
+  </seg>
+</set>

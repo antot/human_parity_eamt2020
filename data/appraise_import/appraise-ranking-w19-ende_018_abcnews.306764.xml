@@ -1,0 +1,44 @@
+<set id="w19_ende" source-language="en" target-language="de">
+  <seg id="1" doc-id="../data/appraise_import/ende_018_abcnews.306764.sl">
+    <source>Volcano spews ash on Mexico City</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_018_abcnews.306764.ht">Vulkan spuckt Asche über Mexico City</translation>
+    <translation system="../data/appraise_import/ende_018_abcnews.306764.mt">Vulkan spuckt Asche auf Mexiko-Stadt</translation>
+  </seg>
+  <seg id="2" doc-id="../data/appraise_import/ende_018_abcnews.306764.sl">
+    <source>Ash spewing from the Popocatepetl volcano has reached the southern neighborhoods of Mexico's capital.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_018_abcnews.306764.ht">Asche aus dem Vulkan Popocatepetl hat die südlichen Viertel von Mexikos Hauptstadt erreicht.</translation>
+    <translation system="../data/appraise_import/ende_018_abcnews.306764.mt">Asche, die aus dem Vulkan Popocatepetl spuckt, hat die südlichen Viertel der mexikanischen Hauptstadt erreicht.</translation>
+  </seg>
+  <seg id="3" doc-id="../data/appraise_import/ende_018_abcnews.306764.sl">
+    <source>The National Center for Disaster Prevention warned Mexicans on Saturday to stay away from the volcano after activity picked up in the crater and it registered 183 emissions of gas and ash over 24 hours.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_018_abcnews.306764.ht">Das nationale Zentrum für Katastrophenprävention warnte die Mexikaner am Samstag davor, sich dem Vulkan zu nähern, nachdem Aktivität im Krater und 183 Gas- und Ascheausstöße in den letzten 24 Stunden registriert wurden.</translation>
+    <translation system="../data/appraise_import/ende_018_abcnews.306764.mt">Das Nationale Zentrum für Katastrophenprävention warnte die Mexikaner am Samstag, sich von dem Vulkan fernzuhalten, nachdem die Aktivität im Krater zugenommen hatte und es innerhalb von 24 Stunden 183 Gas- und Ascheemissionen registrierte.</translation>
+  </seg>
+  <seg id="4" doc-id="../data/appraise_import/ende_018_abcnews.306764.sl">
+    <source>The center was monitoring multiple rumblings and tremors.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_018_abcnews.306764.ht">Das Zentrum überwachte mehrere Erschütterungen.</translation>
+    <translation system="../data/appraise_import/ende_018_abcnews.306764.mt">Das Zentrum überwachte mehrere Grollen und Erschütterungen.</translation>
+  </seg>
+  <seg id="5" doc-id="../data/appraise_import/ende_018_abcnews.306764.sl">
+    <source>Images on social media showed thin layers of ash coating car windshields in neighborhoods of Mexico City such as Xochimilco.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_018_abcnews.306764.ht">Bilder in den sozialen Medien zeigten dünne Ascheschichten auf Windschutzscheiben in den Vierteln von Mexiko City, z. B. in Xochimilco.</translation>
+    <translation system="../data/appraise_import/ende_018_abcnews.306764.mt">Bilder in sozialen Medien zeigten dünne Schichten von Asche, die Autoscheiben in Vierteln von Mexiko-Stadt wie Xochimilco beschichteten.</translation>
+  </seg>
+  <seg id="6" doc-id="../data/appraise_import/ende_018_abcnews.306764.sl">
+    <source>Geophysicists have noticed an increase in activity at the volcano that sits 45 miles (72 kilometers) southeast of the capital since a 7.1-magnitude earthquake rocked central Mexico in September 2017.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_018_abcnews.306764.ht">Geophysiker haben eine erhöhte Aktivität im Vulkan registriert, der sich 72 km (45 Meilen) südöstlicher der Hauptstadt befindet, seit ein Erdbeben der Stärke 7,1 im September 2017 das Zentrum von Mexiko erschütterte.</translation>
+    <translation system="../data/appraise_import/ende_018_abcnews.306764.mt">Geophysiker haben eine Zunahme der Aktivität an dem Vulkan bemerkt, der 72 Kilometer südöstlich der Hauptstadt liegt, seit ein Erdbeben der Stärke 7,1 im September 2017 Zentralmexiko erschütterte.</translation>
+  </seg>
+  <seg id="7" doc-id="../data/appraise_import/ende_018_abcnews.306764.sl">
+    <source>The volcano known as "Don Goyo" has been active since 1994.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/ende_018_abcnews.306764.ht">Der Vulkan, bekannt unter dem Namen „Don Goyo", ist aktiv seit 1994.</translation>
+    <translation system="../data/appraise_import/ende_018_abcnews.306764.mt">Der als „Don Goyo“ bekannte Vulkan ist seit 1994 aktiv.</translation>
+  </seg>
+</set>

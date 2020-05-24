@@ -1,0 +1,170 @@
+<set id="w19_deen" source-language="de" target-language="en">
+  <seg id="1" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>Das Wort-Spiel: "Decrypto" im Spieletest</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">The Word Game: Testing "Decrypto"</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">The word game: "Decrypto" in game test</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">The word game: "Decrypto" in the game test</translation>
+  </seg>
+  <seg id="2" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>Die Spieler bilden zwei Teams, die einander gegenübersitzen.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">The players form two teams and sit opposite one another.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">The players form two teams who sit across from each other.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">The players form two teams that sit opposite each other.</translation>
+  </seg>
+  <seg id="3" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>Für jede Seite gibt es einen Sichtschirm, darin vier Karten mit Schlüsselwörtern, die man - der alte Trick mit der roten Folie - erst entziffern kann, wenn man sie hineingesteckt hat.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">For each page there is a screen, on it there are four cards with keywords that you can decipher - the old trick with the red foil.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">Each team has a screen, on which there are four cards with key words, which - using the old trick with the red film - one can only make out when they are stuck in.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">For each page there is a screen, in it four cards with keywords, which - the old trick with the red foil - can only be deciphered once you have put them in.</translation>
+  </seg>
+  <seg id="4" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>So ist gewährleistet, dass die Gegenseite auch aus Versehen nichts lesen kann.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">This ensures the other side cannot read anything unintentionally.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">This guarantees that the other side cannot read what is there.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">This ensures that the other side cannot read anything, even by mistake.</translation>
+  </seg>
+  <seg id="5" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>Auf den Karten steht dann zum Beispiel, von links nach rechts zu lesen: "1. Renaissance.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">For example, on the cards it says to read from left to right: "1. Renaissance.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">For example, on the cards, from left to right, are the following words: "1. Renaissance.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">The cards then read, for example, from left to right: "1. Renaissance.</translation>
+  </seg>
+  <seg id="6" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>2. Fenster.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">2. Fenster.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">2. Window.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">2nd window.</translation>
+  </seg>
+  <seg id="7" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>3. Würfel.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">3. Cube.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">3. Dice.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">3rd cube.</translation>
+  </seg>
+  <seg id="8" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>4. Fest".</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">4. Solidʺ.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">4. Tight".</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">4. Fest. "</translation>
+  </seg>
+  <seg id="9" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>Das sind die Begriffe, die es fortan zu verschlüsseln gilt.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">These are the terms that need to be coded.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">These are the terms that have to be found.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">These are the terms that need to be encrypted from now on.</translation>
+  </seg>
+  <seg id="10" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>Denn erraten werden sollen hier nicht die Begriffe, sondern Codes.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">So the terms are not guessed, the codes are.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">It's not the terms themselves that have to be worked out as such, but codes.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">For it is not the terms that are to be guessed here, but codes.</translation>
+  </seg>
+  <seg id="11" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>Abwechselnd ein Spieler pro Team ist der Verschlüsseler.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">Taking turns, one player per team is the encryptor.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">Each player in a team takes turns being the coder.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">Alternately, one player per team is the encrypter.</translation>
+  </seg>
+  <seg id="12" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>Er bekommt eine Codekarte, auf der vielleicht "3.4.2". steht.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">They get a code card that has "3.4.2." etc. written on it.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">The coder receives a code card with number, let's say "3.4.2" .</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">He gets a code card that perhaps says "3.4.2."</translation>
+  </seg>
+  <seg id="13" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>Erraten werden sollen in "Decrypto" nicht die Begriffe hinter der Geheimfolie, sondern ihre Verschlüsselungscodes.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">In "Decrypto," it is not the words behind the secret film that should be guessed, but their encryption codes.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">In "Decrypto", you don't so much try to work out the words behind the film, but the codes.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">What is to be guessed in "Decrypto" is not the terms behind the secret foil, but their encryption codes.</translation>
+  </seg>
+  <seg id="14" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>Seine Aufgabe in diesem Fall: Er soll - in dieser Reihenfolge und in diesem Beispiel - die Begriffe "Würfel", "Fest" und "Fenster" beschreiben - und zwar so, dass sein eigenes Team die korrekte Reihenfolge erkennt und das gegnerische Team möglichst nicht; denn das gewinnt die Partie, wenn es ihm zweimal gelingt, den Code zu knacken.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">The task in this case: They should - in this order and in this example - describe the terms "cube", "solid" and "window" - in such a way that his own team recognizes the correct order and the opposing team does not, because the team that cracks the code twice wins the game.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">In this example using this order, the coder has to describe the words "dice", "tight" and "window" in a way that enables his team to get the correct order without the other team getting it, because the other team wins if they break the code twice.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">His task in this case: He should - in this order and in this example - describe the terms "dice," "fixed" and "window" - in such a way that his own team recognizes the correct order and the opposing team, if possible, does not; because that wins the game if he manages to crack the code twice.</translation>
+  </seg>
+  <seg id="15" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>Der Verschlüsseler notiert also und liest laut vor: "Werfen" für die Würfel, "Lose" als Gegensatz zu Fest; hier wäre natürlich auch so etwas wie "Party" möglich und "Prag" weil er in der Schule aufgepasst hat und den dortigen Fenstersturz kennt.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">The encryptor writes down and reads aloud: "Throw" for the dice, "loose" as opposed to "solid". Of course, something like "evidence" would be possible or "Prague" because he read some history books and knows about the defenestration of Prague.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">The coder makes a note and reads aloud: "throw" for the dice, "loose" as the opposite of tight; something like "party" or "Prague" would have gone here because the coder paid attention in school and knows the window lintel from their school days.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">The encrypter thus notes down and reads aloud: "Throw" for the dice, "Lose" as opposed to Fest; here, of course, something like "Party" would also be possible and "Prague" because he paid attention at school and knows the lintel there.</translation>
+  </seg>
+  <seg id="16" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>So geht es Runde für Runde, Team für Team weiter.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">This then progresses, round for round, team by team.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">It goes round by round, team by team.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">So it goes on round by round, team by team.</translation>
+  </seg>
+  <seg id="17" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>Man kennt zwar nicht die Begriffe der Gegenseite - kann sich diese aber mit jedem Hinweis, den der Verschlüsseler dort gibt, besser zusammenreimen.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">It is true that one does not know the terms of the other side - but with every clue the encryptor gives, you’re closer to finding them out.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">The teams do not know the terms the other team has to decode, but can piece them together from every clue that team's coder gives.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">You don't know the terms of the other side - but you can rhyme them better with every hint the encrypter gives there.</translation>
+  </seg>
+  <seg id="18" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>Möglichst mysteriös, aber nicht zu abgedreht sollten die Umschreibungen also sein, sonst macht man es seinem Team unnötig schwer.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">So the term should be as mysterious as possible, but not too crazy. Otherwise, you make it unnecessarily difficult for your team.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">So the clues have to be as far-removed from the original terms as possible, but not so far removed that they make things too difficult for the team.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">So the paraphrases should be as mysterious as possible, but not too crazy, otherwise you make it unnecessarily difficult for your team.</translation>
+  </seg>
+  <seg id="19" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>Das Kryptischste an "Decrypto" ist leider das Regelheft.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">The most cryptic ‘Decrypto’ is the precept unfortunately.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">Unfortunately, the most cryptic thing of all about "Decrypto" is the rulebook.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">Unfortunately, the most cryptic thing about "Decrypto" is the rule book.</translation>
+  </seg>
+  <seg id="20" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>Die Mitspieler müssen es vermutlich recht lange und ausführlich studieren, bis sie endlich spielen können.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">The players have to study it for quite a long time and in detail, until they can finally play it.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">Players will have to spend a long time reading it before they eventually get to play.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">The players probably have to study it quite a long time and in detail until they can finally play.</translation>
+  </seg>
+  <seg id="21" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>Das Erklärungsvideo unter decrypto.info im Netz macht es leichter.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">The explanatory video under decrypto.info on the web will make it easier.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">The demonstration video at decrypto.info makes things easier.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">The explanation video at decrypto.info on the net makes it easier.</translation>
+  </seg>
+  <seg id="22" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>Doch wer erst einmal losgelegt hat, wird fasziniert sein, wie viel Gefühl in diesem unscheinbaren Spiel steckt.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">But once you have started, you’ll be amazed at how much emotion there is in this nondescript game.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">But once people get going with this game, they will be amazed at how much emotion this inconspicuous game conceals.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">But once you get started, it will be fascinating to see how much emotion there is in this unassuming game.</translation>
+  </seg>
+  <seg id="23" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>Insgesamt aber ist "Decrypto" nicht ganz so schlüssig wie Vorgänger und Genre-Primus "Codenames", das ebenfalls eine Agententhematik auf ein Spiel weniger Worte stülpt, dafür aber viel besser in kleinen Gruppen zu spielen ist.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">Overall, however, "Decrypto" is not quite as conclusive as its predecessor and genre-primus "Codenames", which also makes use of the spy theme for a game with few words, but it’s much easier to play in small groups.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">Overall, however, "Decrypto" is not quite so coherent as its predecessor and genre king "Codenames", which also makes use of a secret agent theme for a game of few words, but is better for games with small groups.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">All in all, however, "Decrypto" is not quite as conclusive as predecessor and genre prime "Codenames," which also applies an agent theme to a game of fewer words, but is much better to play in small groups.</translation>
+  </seg>
+  <seg id="24" doc-id="../data/appraise_import/deen_017_paz-online.de.58724.sl">
+    <source>Und wem es nur ums Raten geht und nicht um Siegpunkte, der kann auch leicht eine Version für zwei dazuerfinden.</source>
+    <reference>NA</reference>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ref">And if it's all about guessing and not about winning, it's easy to play a version for two.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.ht">And for people who just want to play to pass time and not for points, then a two-player version is also possible.</translation>
+    <translation system="../data/appraise_import/deen_017_paz-online.de.58724.mt">And if you're only interested in guessing and not winning points, you can easily come up with a version for two.</translation>
+  </seg>
+</set>
